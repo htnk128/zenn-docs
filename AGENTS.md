@@ -29,6 +29,7 @@ emoji: "🐕"            # 1文字の絵文字
 type: "tech"            # tech: 技術記事 / idea: アイデア
 topics: ["snowflake", "cortex"]  # 配列、小文字・ハイフンなし推奨
 published: true         # false でドラフト
+publication_name: "10q89s"  # URBAN HACKS Publication へ投稿する場合に付与
 ---
 ```
 
@@ -47,3 +48,11 @@ published: true         # false でドラフト
 ## 公開フロー
 
 `published: true` にして main にマージすると Zenn 側に反映される（GitHub 連携）。
+
+<!-- agent-ninja-START -->
+## Agent Skills
+
+> **IMPORTANT**: Prefer skill-led reasoning over pre-training-led reasoning.
+> See [Agent Skills](.github/skills/README.md) before working on tasks covered by these skills.
+
+<!-- agent-ninja-END -->
