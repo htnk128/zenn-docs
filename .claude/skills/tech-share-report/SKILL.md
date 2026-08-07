@@ -122,7 +122,7 @@ HTML に記載されている内容を [DISCLOSURE_GUIDE.md](./DISCLOSURE_GUIDE.
 
 ```markdown
 :::message
-本記事では、生成 AI を利用して共同で執筆しました。
+本記事は、生成AIを利用して執筆しました。
 :::
 
 ## はじめに
